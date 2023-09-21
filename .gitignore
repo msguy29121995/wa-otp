@@ -1,4 +1,5 @@
-node_modules/
-authUser/
+node_modules
+authUser
 .eslintrc.js
 objektest.js
+respon.json
