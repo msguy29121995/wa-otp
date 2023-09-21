@@ -1,0 +1,4 @@
+node_modules/
+authUser/
+.eslintrc.js
+objektest.js
